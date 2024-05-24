@@ -9,22 +9,12 @@
 - ⚡ Fun fact: I speak 3 languages ( English, Urdu, Punjabi)
 
 
-### Talk with me, I am kinda awesome:
+### Talk with me!:
 <a>linktomzeeshan@gmail.com</a>
-
 <br />
 
 
 
 <br />
 <br />
----
 
-
-
-
-[website]:
-[youtube]: 
-[instagram]: 
-[linkedin]: 
-[portfolio]:
