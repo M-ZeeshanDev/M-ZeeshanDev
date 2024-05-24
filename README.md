@@ -14,7 +14,7 @@
 
 <br />
 
-<h2>Technologies</h2>
+<h2>Tools & Technologies</h2>
 
 <table>
     <tr>
