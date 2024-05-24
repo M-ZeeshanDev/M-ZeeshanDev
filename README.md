@@ -15,18 +15,18 @@
 <br />
 
 ### Languages and Tools:
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="swagger" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swagger/swagger" />]
+ <b>Font End </b>                                                                 <b> Databases</b> 
+    HTML5, CSS, Bootstrap, JQuery, JavaScript, React                                  SQL ,MYSQL ,Mongo DB, NOSQL, 
+    GraphQL,XML,.NET MAUI, Angular 14, Blazor, Xamarin Form UI                        Azure Blob Storage, Firebase, Cosmos DB 
+                                                               
+ <b>Back-End  </b>                                                                 <b>DevOPs </b>
+    C#, OOP,.NET Framework 4.x,.NET Core ,.NET MVC, Node JS,                          Azure DevOps,AWS, Git ,Ansible ,                                                                                             
+    Minimal Api, Restful Services, Identity, Swagger, Dapper ORM                      Jenkins , 
+   ,Store Procedures            
+      
+<b>SDLC</b>
+   Visual Studio 2022, Visual Studio Code, Docker, Dbeaver, GitHub Desktop 
+   Agile ,Jira ,Scrum, Solid Principles,
 
 <br />
 <br />
