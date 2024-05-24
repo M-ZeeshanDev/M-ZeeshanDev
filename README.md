@@ -14,28 +14,6 @@
 
 <br />
 
-### Languages and Tools:
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Technologies</title>
-    <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 1px solid black;
-            padding: 8px;
-            text-align: left;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
-</head>
-<body>
-
 <h2>Technologies</h2>
 
 <table>
