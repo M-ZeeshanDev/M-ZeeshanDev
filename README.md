@@ -8,8 +8,7 @@
 - 💬 Ask me about ... Anything 
 - ⚡ Fun fact: I speak 3 languages ( English, Urdu, Punjabi)
 
-
-### Talk with me!: <img style="margin-top:20px" src="https://img.icons8.com/?size=100&id=xVADCre0Lxkk&format=png&color=000000" width="30px" hight="30px"/>
+### Talk with me!: <img style="margin-top: 10px;"src="https://img.icons8.com/?size=100&id=xVADCre0Lxkk&format=png&color=000000" width="30px" hight="30px"/>
 <a>linktomzeeshan@gmail.com</a>
 <br />
 
