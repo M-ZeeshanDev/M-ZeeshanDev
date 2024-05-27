@@ -10,7 +10,7 @@
 
 
 ### Talk with me!:
-<a href="mailto:linktomzeeshan@gmail.com"> <img src="https://icons8.com/icon/xVADCre0Lxkk/category-emails-bundle"> </a>
+<a href="mailto:linktomzeeshan@gmail.com"> <img src="https://icons8.com/icon/xVADCre0Lxkk/category-emails-bundle"/> </a>
 <br />
 
 
