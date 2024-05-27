@@ -4,7 +4,7 @@
 - ✍ You can find my projects here <a href="https://mzeeshan2330.wixsite.com/myinfo">@ZeeshanInfo</a>
 - 🔭 I’m currently working on my E-Commerece Product Site.
 - 🌱 I’m currently learning NodeJS and Azure
-- 👯 I’m looking for a Remote Job Opertunity.
+- 👯 I’m looking for a Remote Job opportunity.
 - 💬 Ask me about ... Anything 
 - ⚡ Fun fact: I speak 3 languages ( English, Urdu, Punjabi)
 
