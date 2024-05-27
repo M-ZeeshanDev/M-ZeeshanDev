@@ -10,7 +10,7 @@
 
 
 ### Talk with me!:
-<a>linktomzeeshan@gmail.com</a>
+<a href="mailto:linktomzeeshan@gmail.com"> <img src="images/navigation_icon/email.png"> </a>
 <br />
 
 
