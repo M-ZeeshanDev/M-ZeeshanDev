@@ -1,6 +1,6 @@
 ### Hello World, I'm Zeeshan  👋
 
-## I'm a Senior Full Stack Developer!!
+## I'm a Senior Full Stack Developer(.NET)| WEB & Mobile!!
 - ✍ You can find my projects here <a href="https://mzeeshan2330.wixsite.com/myinfo">@ZeeshanInfo</a>
 - 🔭 I’m currently working on my E-Commerece Product Site.
 - 🌱 I’m currently learning NodeJS and Azure
