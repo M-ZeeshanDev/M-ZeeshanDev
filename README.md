@@ -10,7 +10,7 @@
 
 
 ### Talk with me!:
-<img src="https://img.icons8.com/?size=100&id=xVADCre0Lxkk&format=png&color=000000" width="30px" hight="30px"/><a>linktomzeeshan@gmail.com</a>
+<img src="https://img.icons8.com/?size=100&id=xVADCre0Lxkk&format=png&color=000000" width="30px" hight="30px"/><br/><a>linktomzeeshan@gmail.com</a>
 <br />
 
 
