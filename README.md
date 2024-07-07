@@ -2,7 +2,7 @@
 
 ## I'm a Senior Full Stack .NET Developer!!
 - ✍ You can find my projects here <a href="https://mzeeshan2330.wixsite.com/myinfo">@ZeeshanInfo</a>
-- 🔭 I’m currently working on my E-Commerece Product Site.
+- 🔭 I’m currently working on my E-Commerece Site.
 - 🌱 I’m currently learning NodeJS and Azure
 - 👯 I’m looking for a Remote Job opportunity.
 - 💬 Ask me about ... Anything 
